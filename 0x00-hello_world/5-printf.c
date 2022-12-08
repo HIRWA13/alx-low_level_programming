@@ -1,5 +1,9 @@
 #include <stdio.h>
-/* main program*/
+/* program for printf*/
+/**
+ * main function
+ *   *main code entry
+ */
 int main(void)
 	/* function main() */
 {
