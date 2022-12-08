@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- *  * program works 
- *   *
- *    * Return success
- *     */
+ *  * program works*/
+
+
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
