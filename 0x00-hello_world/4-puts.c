@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * the program
+ *
+ *  the program
+ * 
  * works
  *very well
  */
