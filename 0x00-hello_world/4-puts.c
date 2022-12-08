@@ -1,7 +1,12 @@
 #include <stdio.h>
 
 /**
- *  * program works*/
+ *
+ *  program works
+ *
+ *
+ * 
+ */
 
 
 int main(void)
