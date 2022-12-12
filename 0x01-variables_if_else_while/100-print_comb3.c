@@ -19,6 +19,11 @@ int main(void)
 			{
 				putchar(comb1);
 				putchar(comb2);
+
+				if (comb1 == '8' && comb2 == '9')
+					continue;
+
+
 				putchar(',');
 				putchar(' ');
 
