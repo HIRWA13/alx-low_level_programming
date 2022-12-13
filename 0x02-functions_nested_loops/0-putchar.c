@@ -1,22 +1,21 @@
-#include <stdio.h>
-#include <unistd.h>
+#include "main.h"
 
 /**
-  * main - Entry point
+  * main - main function
   *
-  *Description: print the world _putchar
-  *
-  * Return: Always 0 (Success)
+  * Return: 0 on Success
   */
 int main(void)
 {
-	char print[9] = "_putchar";
-	int i;
-
-	for (i = 0; i < 9; i++)
-		putchar(print[i]);
-	putchar('\n');
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 
 	return (0);
 }
-
